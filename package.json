@@ -1,0 +1,18 @@
+{
+  "name": "johndp",
+  "version": "1.0.0",
+  "description": "Landing page for johndp",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "JOHNDP",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.0",
+    "node.js": "0.0.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.4"
+  }
+}
