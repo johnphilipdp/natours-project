@@ -1,5 +1,6 @@
 # Unfinished personal web page. For viewing purposes. 
-# Preview johnphilipdp.github.io
+# Preview https://www.johnphilipdp.github.io
+# Pure CSS3 animations/tricks
 # Run in your local server using npm after downloading, access to the file directory where index is located:
 terminal commands::
 npm install live-server
